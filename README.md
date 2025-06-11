@@ -247,8 +247,8 @@ A: 确保密码正确，检查文件是否损坏
 
 ## 联系方式
 
-- 项目主页: [GitHub Repository]
-- 问题反馈: [GitHub Issues]
+- 项目主页: [[GitHub Repository](https://github.com/tbj114/PyTorch-Visual-Model-Builder-)]
+- 
 - 邮箱: [your-email@example.com]
 
 ## 更新日志
