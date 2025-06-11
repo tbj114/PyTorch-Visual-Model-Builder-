@@ -1,0 +1,33 @@
+# PyTorch Visual Model Builder Requirements
+
+# Core PyTorch
+torch>=1.9.0
+torchvision>=0.10.0
+
+# GUI Framework
+PyQt5>=5.15.0
+
+# Encryption and Security
+cryptography>=3.4.8
+
+# System Information
+psutil>=5.8.0
+
+# JSON handling (built-in, but listed for completeness)
+# json - built-in
+
+# File operations (built-in)
+# os - built-in
+# base64 - built-in
+# hashlib - built-in
+# time - built-in
+
+# Optional: For enhanced functionality
+# numpy>=1.21.0  # For numerical operations
+# pillow>=8.3.0  # For image processing
+# matplotlib>=3.4.0  # For plotting and visualization
+
+# Development dependencies (optional)
+# pytest>=6.2.0  # For testing
+# black>=21.0.0  # For code formatting
+# flake8>=3.9.0  # For linting
