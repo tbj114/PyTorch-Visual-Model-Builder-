@@ -71,7 +71,7 @@ pip install -r requirements.txt
 
 ### 1. 安装依赖
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/tbj114/PyTorch-Visual-Model-Builder-.git)>
 cd pytorch-visual-model-builder
 pip install -r requirements.txt
 ```
